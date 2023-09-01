@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'bffced1b3ae24fbbbcd698ed0ba44a67',
+  rootNotionPageId: '443c4dd7b922407f9fa9b89a96bfd40c',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'New World',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'https://www.notion.so/443c4dd7b922407f9fa9b89a96bfd40c?v=6f18ced3cd9247b080a87957c2584e58&pvs=4',
   author: 'Corsini',
 
   // open graph metadata (optional)
